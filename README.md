@@ -1,14 +1,14 @@
 ### Spring_Boot
 
-##### 📝 Table of Contents
+#### 📝 Table of Contents
 
--  EmployeeDetails(Interface, Repository, Controller, ApplicationFile)
--  TopicList(Service, Controller, ApplicationFile)
+-  EmployeeDetails (Interface, Repository, Controller, ApplicationFile)
+-  TopicList (Service, Controller, ApplicationFile)
 
 
-##### 1️⃣ Employee Table Using JDBC
+#### 1️⃣ Employee Table Using JDBC
 
-Employee Detail Spring Boot Project Using 4 end points ->
+Employee Details Spring Boot Project Using 4 end points ->
 
 - GET (FetchAllEmployeeDetail)
 - GETBYID (FetchEmployeeDetailById)
@@ -17,7 +17,7 @@ Employee Detail Spring Boot Project Using 4 end points ->
 - DELETE (DeleteEmployeeDetail)
 
 
-##### 2️⃣ Topics Table Using Hybernate
+#### 2️⃣ Topics Table Using Hybernate
 
 Topic List Spring Boot Project Using 4 end points ->
 
