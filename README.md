@@ -10,7 +10,7 @@
 
 Employee Detail Spring Boot Project Using 4 end points ->
 
-- [GET](#FetchAllEmployeeDetail)
+- [GET](FetchAllEmployeeDetail)
 - [GETBYID](#FetchEmployeeDetailById)
 - [PUT](#UpdateEmployeeDetail)
 - [POST](#AddEmployeeDetail)
