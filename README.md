@@ -29,10 +29,6 @@ Topic List Spring Boot Project Using 4 end points ->
 
 
 
-
-
-#### © Copyright IBM Corporation
-
 #### © Copyright 2022 - [Mansi More](https://github.com/MansiMore99)
 
 
