@@ -2,8 +2,8 @@
 
 ##### 📝 Table of Contents
 
-- 1. EmployeeDetails(Interface, Repository, Controller, ApplicationFile)
-- 2. TopicList(Service, Controller, ApplicationFile)
+-  EmployeeDetails(Interface, Repository, Controller, ApplicationFile)
+-  TopicList(Service, Controller, ApplicationFile)
 
 
 ##### 1️⃣ Employee Table Using JDBC
