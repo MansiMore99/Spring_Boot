@@ -10,22 +10,22 @@
 
 Employee Detail Spring Boot Project Using 4 end points ->
 
-- [GET](FetchAllEmployeeDetail)
-- [GETBYID](#FetchEmployeeDetailById)
-- [PUT](#UpdateEmployeeDetail)
-- [POST](#AddEmployeeDetail)
-- [DELETE](#DeleteEmployeeDetail)
+- GET (FetchAllEmployeeDetail)
+- GETBYID (#FetchEmployeeDetailById)
+- PUT (#UpdateEmployeeDetail)
+- POST (#AddEmployeeDetail)
+- DELETE (#DeleteEmployeeDetail)
 
 
 ##### 2️⃣ Topics Table Using Hybernate
 
 Topic List Spring Boot Project Using 4 end points ->
 
-- [GET](#FetchAllTopicList)
-- [GETBYID](#FetchTopicListById)
-- [PUT](#UpdateTopic)
-- [POST](#AddNewTopic)
-- [DELETE](#DeleteExistingTopic)
+- GET (#FetchAllTopicList)
+- GETBYID (#FetchTopicListById)
+- PUT (#UpdateTopic)
+- POST (#AddNewTopic)
+- DELETE (#DeleteExistingTopic)
 
 
 
